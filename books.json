@@ -1,0 +1,54 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Eloquent JavaScript, Second Edition",
+      "author": "Marijn Haverbeke",
+      "publisher": "No Starch Press",
+      "pages": 472
+    },
+    {
+      "id":2,
+      "title": "Learning JavaScript Design Patterns",
+      "author": "Addy Osmani",
+      "publisher": "O'Reilly Media",
+      "pages": 254
+    },
+    {
+      "id":3,
+      "title": "Speaking JavaScript",
+      "author": "Axel Rauschmayer",
+      "publisher": "O'Reilly Media",
+      "pages": 460
+    },
+    {
+      "id":4,
+      "title": "Programming JavaScript Applications",
+      "author": "Eric Elliott",
+      "publisher": "O'Reilly Media",
+      "pages": 254
+    },
+    {
+      "id":5,
+      "title": "Understanding ECMAScript 6"
+      "author": "Nicholas C. Zakas",
+      "publisher": "No Starch Press",
+      "pages": 352
+    },
+
+    {
+      "id":6,
+      "title": "Git Pocket Guide",
+      "author": "Richard E. Silverman",
+      "publisher": "O'Reilly Media",
+      "pages": 234
+    },
+    {
+      "id":7,
+      "title": "Designing Evolvable Web APIs with ASP.NET",
+      "author": "Glenn Block, et al.",
+      "publisher": "O'Reilly Media",
+      "pages": 538
+    }
+  ]
+}
