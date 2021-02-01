@@ -5,13 +5,15 @@
       "title": "Eloquent JavaScript, Second Edition",
       "author": "Marijn Haverbeke",
       "publisher": "No Starch Press",
+      "genre": "Science",
       "pages": 472
     },
     {
       "id":2,
       "title": "Learning JavaScript Design Patterns",
-      "author": "Addy Osmani",
+      "author": "Unknown",
       "publisher": "O'Reilly Media",
+      "genre": "Science",
       "pages": 254
     },
     {
@@ -19,6 +21,7 @@
       "title": "Speaking JavaScript",
       "author": "Axel Rauschmayer",
       "publisher": "O'Reilly Media",
+      "genre": "Science",
       "pages": 460
     },
     {
@@ -26,6 +29,7 @@
       "title": "Programming JavaScript Applications",
       "author": "Eric Elliott",
       "publisher": "O'Reilly Media",
+      "genre": "Science",
       "pages": 254
     },
     {
@@ -33,6 +37,7 @@
       "title": "Understanding ECMAScript 6"
       "author": "Nicholas C. Zakas",
       "publisher": "No Starch Press",
+      "genre": "Science",
       "pages": 352
     },
 
@@ -41,13 +46,15 @@
       "title": "Git Pocket Guide",
       "author": "Richard E. Silverman",
       "publisher": "O'Reilly Media",
+      "genre": "Science",
       "pages": 234
     },
     {
       "id":7,
       "title": "Designing Evolvable Web APIs with ASP.NET",
-      "author": "Glenn Block, et al.",
+      "author": "Unknown",
       "publisher": "O'Reilly Media",
+      "genre": "Science",
       "pages": 538
     }
   ]
