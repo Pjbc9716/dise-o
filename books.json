@@ -1,61 +1,60 @@
 {
   "books": [
     {
-      "id": 1,
-      "title": "Eloquent JavaScript, Second Edition",
-      "author": "Marijn Haverbeke",
-      "publisher": "No Starch Press",
-      "genre": "Science",
-      "pages": 472
-    },
-    {
-      "id":2,
-      "title": "Learning JavaScript Design Patterns",
-      "author": "Unknown",
-      "publisher": "O'Reilly Media",
-      "genre": "Science",
-      "pages": 254
-    },
-    {
-      "id":3,
-      "title": "Speaking JavaScript",
-      "author": "Axel Rauschmayer",
-      "publisher": "O'Reilly Media",
-      "genre": "Science",
-      "pages": 460
-    },
-    {
-      "id":4,
-      "title": "Programming JavaScript Applications",
-      "author": "Eric Elliott",
-      "publisher": "O'Reilly Media",
-      "genre": "Science",
-      "pages": 254
-    },
-    {
-      "id":5,
-      "title": "Understanding ECMAScript 6",
-      "author": "Nicholas C. Zakas",
-      "publisher": "No Starch Press",
-      "genre": "Science",
-      "pages": 352
-    },
-
-    {
-      "id":6,
-      "title": "Git Pocket Guide",
-      "author": "Richard E. Silverman",
-      "publisher": "O'Reilly Media",
-      "genre": "Science",
-      "pages": 234
-    },
-    {
-      "id":7,
-      "title": "Designing Evolvable Web APIs with ASP.NET",
-      "author": "Unknown",
-      "publisher": "O'Reilly Media",
-      "genre": "Science",
-      "pages": 538
-    }
+    "id": 1,
+    "author": "Chinua Achebe",
+    "language": "English",
+    "pages": 209,
+    "title": "Things Fall Apart",
+    "year": 1958
+  },
+  {
+    "id": 2,
+    "author": "Hans Christian Andersen",
+    "language": "Danish",
+    "pages": 784,
+    "title": "Fairy tales",
+    "year": 1836
+  },
+  {
+    "id": 3,
+    "author": "Dante Alighieri",
+    "language": "Italian",
+    "pages": 928,
+    "title": "The Divine Comedy",
+    "year": 1315
+  },
+  {
+    "id": 4,
+    "author": "Unknown",
+    "language": "Akkadian",
+    "pages": 160,
+    "title": "The Epic Of Gilgamesh",
+    "year": -1700
+  },
+  {
+    "id": 5,
+    "author": "Unknown",
+    "language": "Hebrew",
+    "pages": 176,
+    "title": "The Book Of Job",
+    "year": -600
+  },
+  {
+    "id": 6,
+    "author": "Unknown",
+    "language": "Arabic",
+    "pages": 288,
+    "title": "One Thousand and One Nights",
+    "year": 1200
+  },
+  {
+    "id": 7,
+    "author": "Unknown",
+    "language": "Old Norse",
+    "pages": 384,
+    "title": "Nj\u00e1l's Saga",
+    "year": 1350
+  }
   ]
 }
